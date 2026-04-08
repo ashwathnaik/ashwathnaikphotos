@@ -1,8 +1,32 @@
-# React + Vite
+# Ashwath Naik Photos
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern React photography landing page built with Vite.
 
-Currently, two official plugins are available:
+## Sections
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Hero with cinematic background and primary call-to-action
+- Featured photography gallery with responsive cards
+- Artist statement section
+- Quote feature block
+- Print editions section
+- Contact footer
+
+## Getting Started
+
+```bash
+npm install
+npm run dev
+```
+
+## Production Build
+
+```bash
+npm run build
+npm run preview
+```
+
+## Tech
+
+- React
+- Vite
+- Plain CSS (responsive layout)
